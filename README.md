@@ -19,8 +19,8 @@ Internal
 - [examples](examples/) - example gcode files to test with your machine!
 
 External
-- [BOM](https://docs.google.com/spreadsheets/d/12QS1CGSAB-lqKIOotCXDaXmJv9cjfRvVEAgQbRd7MnY/edit?usp=sharing)
-- [Assembly Instructions](https://drive.google.com/drive/folders/1fIALrTWUbJRqTl93RGrUaR8dMfO7AI_g?usp=sharing)
+- [BOM](https://github.com/flexbex42/GuideMill/blob/main/Compass V1 - BOM.xlsx)
+- [Assembly Instructions](https://github.com/flexbex42/GuideMill/blob/main/Compass CNC V1 - Build Instructions.pdf)
 
 ## Disclaimer
 This project is a work-in-progress. Development is rapidly occurring, so design files and firmware may change.
